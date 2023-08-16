@@ -1,6 +1,6 @@
 {
-    "id": "slack-cleaner",
-    "name": "Slack Cleaner",
+    "id": "slack-paste-cleaner",
+    "name": "Slack Paste Cleaner",
     "version": "0.1.0",
     "description": "A plugin to clean up Slack message pastes/exports",
     "main": "main.js",
