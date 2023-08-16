@@ -5,13 +5,13 @@ import "./styles/styles.css";
 import "tslib";
 
 import {
-//   App,
-//   EditorPosition,
+  //   App,
+  //   EditorPosition,
   MarkdownView,
   Notice,
   Plugin,
-//   PluginSettingTab,
-//   Setting,
+  //   PluginSettingTab,
+  //   Setting,
 } from "obsidian";
 
 export default class SlackCleaner extends Plugin {
@@ -33,9 +33,9 @@ export default class SlackCleaner extends Plugin {
     let htmlText = "";
 
     for (const clipboardItem of clipboardItems) {
-    //   if (clipboardItem.types.includes("text/plain")) {
-    //     plainText = await (await clipboardItem.getType("text/plain")).text();
-    //   }
+      //   if (clipboardItem.types.includes("text/plain")) {
+      //     plainText = await (await clipboardItem.getType("text/plain")).text();
+      //   }
       if (clipboardItem.types.includes("text/html")) {
         htmlText = await (await clipboardItem.getType("text/html")).text();
       }
