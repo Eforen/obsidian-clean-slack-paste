@@ -14,8 +14,12 @@ Sections are used under each version as follows:
 
 ## [Unreleased]
 
+### Added
+
+- Make Initial Release
+
 ## [0.1.0] - 2023-08-16
 
 ### Added
 
-- Initial Release
+- Initial Dev
