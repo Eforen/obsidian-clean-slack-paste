@@ -14,6 +14,8 @@ Sections are used under each version as follows:
 
 ## [Unreleased]
 
+## [1.0.1] - 2023-08-16
+
 ### Fixed
 Made the plugin description not suck.
 
@@ -28,5 +30,6 @@ Made the plugin description not suck.
 ### Added
 
 - Initial Dev
-[unreleased]: https://github.com/Eforen/obsidian-clean-slack-paste/compare/1.0.0...HEAD
+[unreleased]: https://github.com/Eforen/obsidian-clean-slack-paste/compare/1.0.1...HEAD
+[1.0.1]: https://github.com/Eforen/obsidian-clean-slack-paste/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/Eforen/obsidian-clean-slack-paste/releases/tag/1.0.0
