@@ -14,6 +14,9 @@ Sections are used under each version as follows:
 
 ## [Unreleased]
 
+### Fixed
+Made the plugin description not suck.
+
 ## [1.0.0] - 2023-08-16
 
 ### Added
