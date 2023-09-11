@@ -18,8 +18,7 @@
     "github": {
         "assets": [
             "main.js",
-            "manifest.json",
-            "styles.css"
+            "manifest.json"
         ],
         "release": true,
         "releaseName": "v${version}"
