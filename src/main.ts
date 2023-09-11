@@ -1,5 +1,5 @@
 // main.ts
-import "./styles/styles.css";
+// import "./styles/styles.css";
 
 // declare const CodeMirror: any; // Obsidian uses CodeMirror for text editing. This just declares it for TypeScript
 import "tslib";
